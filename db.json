@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "18bc",
+      "taskName": "Home Component",
+      "taskDescription": "Create Home page component from scratch",
+      "taskAssignedTo": "jabid@gmail.com",
+      "taskCreatedAt": "2024-03-09",
+      "taskCompletedAt": "",
+      "status": "Done"
+    },
+    {
+      "id": "23d2",
+      "taskName": "Login Component",
+      "taskDescription": "Do validations in Login Component",
+      "taskAssignedTo": "roshan@gmail.com",
+      "taskCreatedAt": "2024-03-09",
+      "taskCompletedAt": "",
+      "status": "pending"
+    },
+    {
+      "id": "4fe6",
+      "taskName": "Home Component",
+      "taskDescription": "Do validations in Login Component",
+      "taskAssignedTo": "mohit@gmail.com",
+      "taskCreatedAt": "2024-03-09",
+      "taskCompletedAt": "",
+      "status": "Done"
+    },
+    {
+      "id": "7f7e",
+      "taskName": "Contact Component",
+      "taskDescription": "Create contact form component with validations",
+      "taskAssignedTo": "Mayuri@gmail.com",
+      "taskCreatedAt": "2024-03-10",
+      "taskCompletedAt": "",
+      "status": "pending"
+    }
+  ]
+}
