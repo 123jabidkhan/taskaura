@@ -158,7 +158,7 @@ const goToPage = (pageNumber) => {
       <table className="table">
         <thead>
           <tr>
-            <th>S NO</th>
+            <th>Task No</th>
             <th>Task Assigned</th>
             <th>Task Name</th>
             <th>Description</th>
